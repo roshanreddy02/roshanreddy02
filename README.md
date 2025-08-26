@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development,javascript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/roshanreddy02/Projects]([https://github.com/roshanreddy02](https://github.com/roshanreddy02?tab=repositories))
+- 👨‍💻 All of my projects are available at [https://github.com/roshanreddy02/Projects](https://github.com/roshanreddy02?tab=repositories)
 
 - How to reach me **c4roshanreddy@gmail.com**
 
